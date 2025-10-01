@@ -1,4 +1,11 @@
-# REDCap Custom Project Settings Plugin
+# REDCap Custom Project Settings Plugin - ARCHIVED
+
+**This repository has been archived and is no longer actively maintained.**
+
+This project was archived as of October 1, 2025. The project for which it was written is now over. There's no funding to provide further maintenance for other projects. Please don't hesitate to use this code in accordance with the license; however, the authors are unable to offer any additional support.
+
+-----------
+
 
 Custom Project Settings extension is a combination of a REDCap plugin and hook, designed to save configuration settings for REDCap extensions at the project level. The extension facilitates other REDCap hooks and plugins that need per-project custom settings. Once the hook is activated, it adds a section to the Project Setup tab of each project. The new section allows configuration data for REDCap extensions such as Form Render Skip Logic (FRSL) to be saved to a REDCap project's configuration.
 
